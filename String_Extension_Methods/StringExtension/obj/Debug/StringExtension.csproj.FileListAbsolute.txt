@@ -1,0 +1,6 @@
+C:\Users\baxleyn2893\source\repos\String_Extension_Methods\StringExtension\bin\Debug\StringExtension.dll
+C:\Users\baxleyn2893\source\repos\String_Extension_Methods\StringExtension\bin\Debug\StringExtension.pdb
+C:\Users\baxleyn2893\source\repos\String_Extension_Methods\StringExtension\obj\Debug\StringExtension.csprojAssemblyReference.cache
+C:\Users\baxleyn2893\source\repos\String_Extension_Methods\StringExtension\obj\Debug\StringExtension.csproj.CoreCompileInputs.cache
+C:\Users\baxleyn2893\source\repos\String_Extension_Methods\StringExtension\obj\Debug\StringExtension.dll
+C:\Users\baxleyn2893\source\repos\String_Extension_Methods\StringExtension\obj\Debug\StringExtension.pdb

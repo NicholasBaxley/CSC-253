@@ -1,0 +1,5 @@
+C:\Users\baxleyn2893\source\repos\Create_WPF_for_Pet_Class\Animals\bin\Debug\Animals.dll
+C:\Users\baxleyn2893\source\repos\Create_WPF_for_Pet_Class\Animals\bin\Debug\Animals.pdb
+C:\Users\baxleyn2893\source\repos\Create_WPF_for_Pet_Class\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\baxleyn2893\source\repos\Create_WPF_for_Pet_Class\Animals\obj\Debug\Animals.dll
+C:\Users\baxleyn2893\source\repos\Create_WPF_for_Pet_Class\Animals\obj\Debug\Animals.pdb
